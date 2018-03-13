@@ -7,7 +7,7 @@ METEOR_SETTINGS='{
     "secret": ""
   },
   "public": {
-    "version": "FlowBAT v1.5.1",
+    "version": "FlowBAT v1.5.3",
     "isDebug": false,
     "googleAnalytics": {
       "property": "",
